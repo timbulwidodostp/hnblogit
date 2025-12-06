@@ -2,4 +2,4 @@
 1
 2
 3
-p xtqreg Linear Quantile Mixed Models Use xtqreg With STATA 19
+p hnblogit Negative binomial-logit hurdle regression Use hnblogit With STATA 19
